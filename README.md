@@ -2,4 +2,4 @@
 
 ## [Amaro Challenge](https://ifpb.github.io/javascript-exercises/challenges/w3c/amaro/)
 
-![Amaro](Amaro.jpg)
+![Amaro](img/Amaro.jpg)
